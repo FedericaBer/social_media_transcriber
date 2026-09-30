@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# project input/output files
+input/*
+!input/.gitkeep
+
+output/*
+!output/.gitkeep
+
+# macOS
+.DS_Store
